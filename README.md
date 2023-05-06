@@ -5,10 +5,8 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atvKail&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<html>
-    <head>
-        <meta charset="utf-8" />
-        <style>.cube-container {
+<style>
+  .cube-container {
     width: 200px;
     height: 200px;
     margin: 100px auto;
@@ -56,9 +54,7 @@
     to { transform: rotateY(360deg); }
   }
       </style>
-    </head>
-
-    <body>
+      
         <div class="cube-container">
             <div class="cube">
               <div class="side front"></div>
@@ -69,5 +65,3 @@
               <div class="side bottom"></div>
             </div>
           </div>
-    </body>
-</html>
