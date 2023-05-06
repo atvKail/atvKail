@@ -3,7 +3,6 @@
   <br>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Just+a+man+from+Russia)](https://git.io/typing-svg)
-  
   <a style="color: #007ab6; font-size: 1.7em" href="">My stats</a>
 </h1>
 <div align="center">
