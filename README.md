@@ -5,6 +5,6 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Just+a+man+from+Russia)](https://git.io/typing-svg)
   
 </h1>
-<div align="centre">
+<div align="center">
 <img src="example.svg" width="400" height="400" alt="css-in-readme">
 </div>
