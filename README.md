@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm 4e1owek, <a style="color: #00816b" href="">my stats</a>
+<h1 align="center">Hi there, I'm 4e1owek, <a style="color: #146e5f" href="">my stats</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
   <br>
   
