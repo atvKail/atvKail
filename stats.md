@@ -4,4 +4,6 @@
   
   [![Codewars](https://github.r2v.ch/codewars?user=4e1&top_languages=true)](https://www.codewars.com/users/4e1)
   
+  [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Animehnik)](https://codeforces.com/profile/Animehnik)
+  
 </div>
