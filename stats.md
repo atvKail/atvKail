@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   
   [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Animehnik)](https://codeforces.com/profile/Animehnik)
   [![Codewars](https://github.r2v.ch/codewars?user=4e1&top_languages=true)](https://www.codewars.com/users/4e1)
