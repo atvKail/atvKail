@@ -20,42 +20,42 @@
       perspective: 800px;
     }
 
-    .cube {
-      position: relative;
-      width: 100%;
-      height: 100%;
-      transform-style: preserve-3d;
-      transform-origin: center;
-      animation: rotate 5s infinite linear;
+  .cube {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transform-origin: center;
+    animation: rotate 5s infinite linear;
 
-    }
+  }
 
-    .side {
-      position: absolute;
-      width: 100%;
-      height: 100%;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      background-color: #fff;
-      opacity: 0.7;
-      font-size: 2em;
-      font-weight: bold;
-      box-shadow: 0 0 8px #000;
-      background-color: rgb(57, 197, 127);
-    }
-  
-    .front { transform: translateZ(100px); } 
-    .back { transform: rotateY(180deg) translateZ(100px); } 
-    .right { transform: rotateY(90deg) translateZ(100px); } 
-    .left { transform: rotateY(-90deg) translateZ(100px); } 
-    .top { transform: rotateX(90deg) translateZ(100px); } 
-    .bottom { transform: rotateX(-90deg) translateZ(100px); } 
+  .side {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    opacity: 0.7;
+    font-size: 2em;
+    font-weight: bold;
+    box-shadow: 0 0 8px #000;
+    background-color: rgb(57, 197, 127);
+  }
 
-    @keyframes rotate {
-      from { transform: rotateY(0); }
-      to { transform: rotateY(360deg); }
-    }
+  .front { transform: translateZ(100px); } 
+  .back { transform: rotateY(180deg) translateZ(100px); } 
+  .right { transform: rotateY(90deg) translateZ(100px); } 
+  .left { transform: rotateY(-90deg) translateZ(100px); } 
+  .top { transform: rotateX(90deg) translateZ(100px); } 
+  .bottom { transform: rotateX(-90deg) translateZ(100px); } 
+
+  @keyframes rotate {
+    from { transform: rotateY(0); }
+    to { transform: rotateY(360deg); }
+  }
 </style>
   <div class="cube-container">
     <div class="cube">
