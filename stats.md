@@ -6,6 +6,6 @@
   
   [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Animehnik)](https://codeforces.com/profile/Animehnik)
   
-  [![4e1owek's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=atvKail&theme=dark)]([https://github.com/KnlnKS/leetcode-stats])
+  [![4e1owek's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=atvKail&theme=dark)]([https://github.com/KnlnKS/leetcode-stats?ysclid=lhc2hdvlc8984976960])
   
 </div>
