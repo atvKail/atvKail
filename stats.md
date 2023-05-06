@@ -1,5 +1,5 @@
 <div>
-  <img href="https://github.com/atvKail/CodeforcesStats/blob/main/output/light_card.svg">
+  <img src="https://github.com/atvKail/CodeforcesStats/blob/main/output/light_card.svg">
   
   [![Codewars](https://github.r2v.ch/codewars?user=4e1&top_languages=true)](https://www.codewars.com/users/4e1)
   [![4e1owek's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=atvKail&theme=dark)]([https://fasthub.cc/KnlnKS/leetcode-stats])
