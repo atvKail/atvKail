@@ -8,8 +8,8 @@
     
   [![Codefprces](https://raw.githubusercontent.com/atvKail/CodeforcesStats/main/output/rating.svg)](https://codeforces.com/profile/Animehnik)
 
-    <a href="https://www.leetcode.com/atvkail"><img src="https://img.shields.io/badge/LeetCode-grey?style=for-the-badge&logo=leetcode&logoColor=orange"></a>
-    <a href="https://discord.gg/https://discordapp.com/users/494455423764660224/"><img src="https://img.shields.io/badge/discord-blue?style=for-the-badge&logo=discordr&logoColor=white"> </a>
+  <a href="https://www.leetcode.com/atvkail"><img src="https://img.shields.io/badge/LeetCode-grey?style=for-the-badge&logo=leetcode&logoColor=orange"></a>
+  <a href="https://discord.gg/https://discordapp.com/users/494455423764660224/"><img src="https://img.shields.io/badge/discord-blue?style=for-the-badge&logo=discordr&logoColor=white"> </a>
     
   </div>
   <br>
