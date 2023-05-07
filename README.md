@@ -9,7 +9,7 @@
   [![Codefprces](https://raw.githubusercontent.com/atvKail/CodeforcesStats/main/output/rating.svg)](https://codeforces.com/profile/Animehnik)
 
   <a href="https://www.leetcode.com/atvkail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atvkail" height="30" width="40" /></a>
-  <a href="https://discord.gg/https://discordapp.com/users/494455423764660224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/494455423764660224/" height="30" width="40" /></a>
+    <a href="https://discord.gg/https://discordapp.com/users/494455423764660224/"?<img src="https://img.shields.io/badge/discord-blue?style=for-the-badge&logo=discordr&logoColor=white"> </a>
     
   </div>
   <br>
