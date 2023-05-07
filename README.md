@@ -5,7 +5,9 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Just+a+man+from+Russia)](https://git.io/typing-svg)
   
   <div>
+    
   [![Codefprces](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg)](https://codeforces.com/profile/Animehnik)
+    
   </div>
   <br>
 </h1>
