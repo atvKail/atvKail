@@ -6,7 +6,7 @@
   
   <div>
     
-  [![Codefprces](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg)](https://codeforces.com/profile/Animehnik)
+  [![Codefprces](https://raw.githubusercontent.com/atvKail/CodeforcesStats/main/output/rating.svg)](https://codeforces.com/profile/Animehnik)
     
   </div>
   <br>
