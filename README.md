@@ -7,6 +7,7 @@
   <div>
     
   [![Codefprces](https://raw.githubusercontent.com/atvKail/CodeforcesStats/main/output/rating.svg)](https://codeforces.com/profile/Animehnik)
+  [![Discord](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://discordapp.com/users/494455423764660224)
     
   </div>
   <br>
