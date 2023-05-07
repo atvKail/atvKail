@@ -1,6 +1,54 @@
 <svg>
     <foreignObject>
-        <link rel="StyleSheet" href="css/styles.css">
+        <style>
+            .cube-container {
+                width: 200px;
+                height: 200px;
+                margin: 100px auto;
+                perspective: 800px;
+              }
+
+              .cube {
+                position: relative;
+                width: 100%;
+                height: 100%;
+                transform-style: preserve-3d;
+                transform-origin: center;
+                animation: rotate 5s infinite linear;
+
+              }
+
+              .side {
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                opacity: 0.7;
+                font-size: 2em;
+                font-weight: bold;
+                box-shadow: 0 0 9px #000;
+                background-color: #6b6dff;
+              }
+
+              html{
+                color: #146e5f;
+                font-size: 1.7em;
+              }
+
+              .front { transform: translateZ(100px); } 
+              .back { transform: rotateY(180deg) translateZ(100px); } 
+              .right { transform: rotateY(90deg) translateZ(100px); } 
+              .left { transform: rotateY(-90deg) translateZ(100px); } 
+              .top { transform: rotateX(90deg) translateZ(100px); } 
+              .bottom { transform: rotateX(-90deg) translateZ(100px); } 
+
+              @keyframes rotate {
+                from { transform: rotateY(0); }
+                to { transform: rotateY(360deg); }
+              }
+        </style>
         <div class="cube-container">
             <div class="cube" id="side-parent">
             <div class="side front" id="front"></div>
@@ -11,7 +59,44 @@
             <div class="side bottom" id="bottom"></div>
             </div>
         </div>
-        <script src="js/fade.js"></script>
-        <script src="js/app.js"></script>
+        <script>
+            const element = document.getElementById("side-parent");
+            const childElements = element.querySelectorAll("*");
+            var i = 0;
+            var f = true;
+
+            var colors = 
+            [
+                "#6b6dff",
+                "#585afe",
+                "#5254ff",
+                "#4245ff",
+                "#383aff",
+                "#2e30ff",
+                "#1417ff",
+                "#0002fa",
+                "#0000FA"
+            ]
+            function changeColor() {
+                var thcolor = colors[i];
+                childElements.forEach(child => {
+                    child.style.backgroundColor = thcolor;
+                });
+                if (f){
+                    i += 1
+                    if (i == colors.length){
+                        f = false
+                    }
+                }
+                else{
+                    i -= 1;
+                    if (i < 0){
+                        f = true
+                    }
+                }
+            }
+
+            setInterval(changeColor, 120)
+        </script>
     </foreignObject>
 </svg>
